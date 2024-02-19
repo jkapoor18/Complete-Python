@@ -12,15 +12,21 @@ number = 3,7,8,4,6,9
 1. variables should be start with alphabet and underscore 
 2. we cann't start varibles with numbers and special charactors like [$<%<#<@<!<?]
 
-Variables Examples:
+Variables Name Examples:
+1. data1
+2. _data1
+3. data_set
+4. _data_set
+5. _dataset_
+etc
+
+There are 3 ways to make Variables more atractive:-
+1. Camel case:-
 
 
+2. Pascal case:-
 
 
-
-
-
-
-
-
+3. snake case:-
 '''
+
