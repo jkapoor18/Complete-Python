@@ -71,6 +71,16 @@ Day 3
 3. Write a program to find the largest among three numbers entered by the user.
 4. String Length Checker:
     Implement a program that takes a string as input and prints its length.
+    
+5. 72.	Write a Python program to sort Python Dictionaries by Key or Value?
+63.	Write a Python program to find uncommon words from two Strings?
+64.	Write a Python to find all duplicate characters in string?
+65.	Write a Python Program to check if a string contains any special character?
+66.	Write a Python program to Extract Unique values dictionary values?
+67.	Write a Python program to find the sum of all items in a dictionary?
+68.	Write a Python program to Merging two Dictionaries?
+69.	Write a Python program to convert key-values list to flat dictionary?
+
 
 
 '''
