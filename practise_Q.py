@@ -69,7 +69,8 @@ Day 3
 1. Create a simple calculator program that performs addition, subtraction, multiplication, or division based on user input.
 2. Implement a program that checks if a triangle is equilateral, isosceles, or scalene based on its side lengths.
 3. Write a program to find the largest among three numbers entered by the user.
-
+4. String Length Checker:
+    Implement a program that takes a string as input and prints its length.
 
 
 '''
